@@ -1,4 +1,4 @@
-# integracion-conekta
+# integracion-conekta SDK PHP
 Ejemplo de integración de pasarela de pagos CONEKTA
 
 
@@ -23,3 +23,7 @@ var_dump($customer);
 $customer = $conekta->eliminarCliente($customer_id);
 var_dump($customer);
 
+
+
+Documentación oficial
+https://developers.conekta.com/
